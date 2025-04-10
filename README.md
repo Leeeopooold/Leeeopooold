@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Leeeopooold
+- 👋 Hello, I’m Leopold.
 - 👀 I’m interested in self-study and improving myself.
-- 🌱 I’m currently learning C++ ,html ,css ,and js.
+- 🌱 I’m currently learning data structure.
 - 💞️ I’m looking to collaborate on some basic algorithmic problems.
-- 📫 How to reach me. my e-mail:dashuaibi13@foxmail.com
-- 😄 Pronouns: ?
+- 📫 my e-mail:dashuaibi13@foxmail.com 
+- 😄 Love playing basketball, listening to rap songs and playing CS.
 - ⚡ Fun fact: to be continued...
 
 <!---
